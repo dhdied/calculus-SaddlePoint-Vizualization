@@ -29,7 +29,6 @@
 2.  **Создание виртуального окружения** (рекомендуется):
     ```bash
     python -m venv manim_env
-    # Активация на Windows:
     manim_env\\Scripts\\activate
     ```
 
