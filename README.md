@@ -2,10 +2,7 @@
 
 Проект на базе библиотеки Manim для визуализации математической функции $z = (y - x^2)(y - 3x^2)$. Проект наглядно демонстрирует случай, когда классическое достаточное условие (через определитель матрицы Гессе) не дает ответа в критической точке $(0,0)$, хотя на самом деле там находится седловая точка.
 
-
-<video src="[https://github.com/user-attachments/assets/e8791854-cca0-4649-b6aa-f20b6d289e76](https://github.com/user-attachments/assets/e8791854-cca0-4649-b6aa-f20b6d289e76)" autoplay loop muted playsinline controls width="100%">
-</video>
-
+<video src="https://github.com/user-attachments/assets/e8791854-cca0-4649-b6aa-f20b6d289e76" autoplay loop muted width="100%"></video>
 
 ## Описание
 Анимация пошагово разбирает:
@@ -32,7 +29,7 @@
 
 1.  **Клонирование репозитория**:
     ```bash
-    git clone [https://github.com/ВАШ_НИК/SaddlePoint-Visualization.git](https://github.com/ВАШ_НИК/SaddlePoint-Visualization.git)
+    git clone [https://github.com/dhdied/SaddlePoint-Visualization.git](https://github.com/dhdied/SaddlePoint-Visualization.git)
     cd SaddlePoint-Visualization
     ```
 
